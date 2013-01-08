@@ -1,4 +1,4 @@
-data-plugins
+golem-plugins
 ============
 
-Plugins for the data IRC bot
+Plugins for the golem IRC bot
